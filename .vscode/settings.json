@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.compilerPath": "c:\\Users\\aibel\\OneDrive\\Documents\\Code\\month2\\file.c",
+    "files.associations": {
+        "types.h": "c",
+        "dirent.h": "c",
+        "_mingw.h": "c",
+        "io.h": "c"
+    }
+}
